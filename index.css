@@ -1,0 +1,16 @@
+#header {
+    height: 300px;
+    width: 100%;
+    background: rgb(252,182,109);
+background: linear-gradient(351deg, rgba(252,182,109,1) 17%, rgba(31,27,87,1) 100%);
+}
+
+#header-section > h1,
+#header-section p {
+color: white;
+text-align: center;
+}
+
+#anuncio {
+    background-color: #FCB66D;
+}
